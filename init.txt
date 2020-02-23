@@ -1,0 +1,15 @@
+npm 报错 'cannot find module‘internal/util/types'解决方法；
+原创sunlizhen 最后发布于2019-01-24 10:03:53 阅读数 1476  收藏
+展开
+1、卸载node.js
+
+2、删除C:\Users\Administrator\AppData\Roaming下边的npm、npm-cache（这一步必须有）
+
+3、重新安装node.js，再次在dos中输入node -v和npm -v可以看到相应的版本号
+
+这个我捣鼓了半天 node 卸了装 装了卸；刚开始没有进行第二部，所以问么弄都不行，关键就在第二步；
+
+点赞 
+————————————————
+版权声明：本文为CSDN博主「sunlizhen」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/sunlizhen/article/details/86621139

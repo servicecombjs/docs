@@ -1,6 +1,5 @@
 {
     "name": "notadd-docs",
-    "version": "v2.0",
     "author": "notadd",
     "description": "document for notadd, v1 and v2",
     "main": "server.js",
